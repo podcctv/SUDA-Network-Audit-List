@@ -1,118 +1,119 @@
-*.ruten.com.tw
-*.pcstore.com.tw
-*.momomall.com.tw
-*.shopee.tw
-*.tw.bid.yahoo.com
-*.tw.mall.yahoo.com
-*.rakuten.com.tw
-*.books.com.tw
-*.omygod.com.tw
-*.mycard520.com
-*.gashplus.com
-23.41.131.*
-*.voicemaker.media
-*.tantanapp.com
-*.omi.sg
-*.ucoofun.com
-*.weverse.io
-*.litmatchapp.com
-*.pikabu.cc
-*.justdatingapp.com
-*.goodnight.io
-*.partying.tw
-*.pati.chat
-*.kakaocorp.com
-*.rooit.me
-*.hearting.online
-*.aside-dating.com
-*.heymandi.com
-*.17.live
-*.lemochat.com
-*.jspp.com
-*.parpar.app
-*.ladynight.app
-*.talkmate.tw
-*.sweetring.com
-*.yueme.app
-*.miya.chat
-*.wejo.app
-*.youmedate.net
-*.pairs.tw
-*.azarlive.com
-*.bigo.tv
-*.gopaktor.com
-*.eatgether.com
-*.upliveapp.com
-*.lang.live
-*.wave.com.tw
-*.bot.com.tw
-*.taipeifubon.com.tw
-*.fubon.com
-*.cathaybk.com.tw
-*.post.gov.tw
-*.ctbcbank.com
-*.esunbank.com.tw
-*.pxpayplus.com
-*.i-pass.com.tw
-*.jkopay.com
-*.ecpay.com.tw
-*.paypal.com
-*.newebpay.com
-*.opay.tw
-*.pchomepay.com.tw
-*.worldfirst.com
-*.sunpaykly.com.tw
-*.piapp.com.tw
-*.gamapay.com.tw
-*.pluspay.com.tw
-*.esunbank.com.tw
-*.icashpay.com.tw
-*.easycard.com.tw
-*.autowebpay.com
-*.shopline.tw
-*.taiwanpay.com.tw
-*.taishinbank.com.tw
-*.richart.tw
-*.dbs.com.tw
-*.yuantabank.com.tw
-*.tcb-bank.com.tw
-*.firstbank.com.tw
-*.sinopac.com
-*.bankchb.com
-*.megabank.com.tw
-*.zingala.com
-*.ubot.com.tw
-*.skbank.com.tw
-*.landbank.com.tw
-*.tbb.com.tw
-*.kgibank.com.tw
-*.hsbc.com.tw
-*.scsb.com.tw
-*.sc.com.tw
-*.feib.com.tw
-*.rakuten-bank.com.tw
-*.cotabank.com.tw
-*.tcbbank.com.tw
-*.hncb.com.tw
-*.afisc.com.tw
-*.nextbank.com.tw
-*.icbc.com.cn
-*.ktb.com.tw
-*.bok.com.tw
-*.ccb.com
-*.abchina.com
-*.entiebank.com.tw
-*.o-bank.com
-*.maicoin.com
-*.rybit.com
-*.bitoex.com
-*.bitopro.com
-*.bitgin.net
-*.ace.io
-*.aws.amazon.com
-*.azure.microsoft.com
-*.cloud.google.com
-*.linode.com
-*.digitalocean.com
-*.kamatera.com
-*.cathaybk.com.tw.
+payload:
+  - '+.ruten.com.tw'
+  - '+.pcstore.com.tw'
+  - '+.momomall.com.tw'
+  - '+.shopee.tw'
+  - '+.tw.bid.yahoo.com'
+  - '+.tw.mall.yahoo.com'
+  - '+.rakuten.com.tw'
+  - '+.books.com.tw'
+  - '+.omygod.com.tw'
+  - '+.mycard520.com'
+  - '+.gashplus.com'
+  - '23.41.131.0/24'
+  - '+.voicemaker.media'
+  - '+.tantanapp.com'
+  - '+.omi.sg'
+  - '+.ucoofun.com'
+  - '+.weverse.io'
+  - '+.litmatchapp.com'
+  - '+.pikabu.cc'
+  - '+.justdatingapp.com'
+  - '+.goodnight.io'
+  - '+.partying.tw'
+  - '+.pati.chat'
+  - '+.kakaocorp.com'
+  - '+.rooit.me'
+  - '+.hearting.online'
+  - '+.aside-dating.com'
+  - '+.heymandi.com'
+  - '+.17.live'
+  - '+.lemochat.com'
+  - '+.jspp.com'
+  - '+.parpar.app'
+  - '+.ladynight.app'
+  - '+.talkmate.tw'
+  - '+.sweetring.com'
+  - '+.yueme.app'
+  - '+.miya.chat'
+  - '+.wejo.app'
+  - '+.youmedate.net'
+  - '+.pairs.tw'
+  - '+.azarlive.com'
+  - '+.bigo.tv'
+  - '+.gopaktor.com'
+  - '+.eatgether.com'
+  - '+.upliveapp.com'
+  - '+.lang.live'
+  - '+.wave.com.tw'
+  - '+.bot.com.tw'
+  - '+.taipeifubon.com.tw'
+  - '+.fubon.com'
+  - '+.cathaybk.com.tw'
+  - '+.post.gov.tw'
+  - '+.ctbcbank.com'
+  - '+.esunbank.com.tw'
+  - '+.pxpayplus.com'
+  - '+.i-pass.com.tw'
+  - '+.jkopay.com'
+  - '+.ecpay.com.tw'
+  - '+.paypal.com'
+  - '+.newebpay.com'
+  - '+.opay.tw'
+  - '+.pchomepay.com.tw'
+  - '+.worldfirst.com'
+  - '+.sunpaykly.com.tw'
+  - '+.piapp.com.tw'
+  - '+.gamapay.com.tw'
+  - '+.pluspay.com.tw'
+  - '+.esunbank.com.tw'
+  - '+.icashpay.com.tw'
+  - '+.easycard.com.tw'
+  - '+.autowebpay.com'
+  - '+.shopline.tw'
+  - '+.taiwanpay.com.tw'
+  - '+.taishinbank.com.tw'
+  - '+.richart.tw'
+  - '+.dbs.com.tw'
+  - '+.yuantabank.com.tw'
+  - '+.tcb-bank.com.tw'
+  - '+.firstbank.com.tw'
+  - '+.sinopac.com'
+  - '+.bankchb.com'
+  - '+.megabank.com.tw'
+  - '+.zingala.com'
+  - '+.ubot.com.tw'
+  - '+.skbank.com.tw'
+  - '+.landbank.com.tw'
+  - '+.tbb.com.tw'
+  - '+.kgibank.com.tw'
+  - '+.hsbc.com.tw'
+  - '+.scsb.com.tw'
+  - '+.sc.com.tw'
+  - '+.feib.com.tw'
+  - '+.rakuten-bank.com.tw'
+  - '+.cotabank.com.tw'
+  - '+.tcbbank.com.tw'
+  - '+.hncb.com.tw'
+  - '+.afisc.com.tw'
+  - '+.nextbank.com.tw'
+  - '+.icbc.com.cn'
+  - '+.ktb.com.tw'
+  - '+.bok.com.tw'
+  - '+.ccb.com'
+  - '+.abchina.com'
+  - '+.entiebank.com.tw'
+  - '+.o-bank.com'
+  - '+.maicoin.com'
+  - '+.rybit.com'
+  - '+.bitoex.com'
+  - '+.bitopro.com'
+  - '+.bitgin.net'
+  - '+.ace.io'
+  - '+.aws.amazon.com'
+  - '+.azure.microsoft.com'
+  - '+.cloud.google.com'
+  - '+.linode.com'
+  - '+.digitalocean.com'
+  - '+.kamatera.com'
+  - '+.cathaybk.com.tw'
